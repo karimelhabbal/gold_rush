@@ -1,4 +1,4 @@
-# goldrush
+# gold_rush
 
 ## Simple Flutter Game
 
